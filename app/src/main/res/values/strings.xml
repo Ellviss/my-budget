@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">my-budget</string>
+    <string name="input_field_hint">input data</string>
+    <string name="input_money">input money</string>
+    <string name="item_edit_text">edit data</string>
+    <string name="item_delete_text">delete data</string>
+</resources>
