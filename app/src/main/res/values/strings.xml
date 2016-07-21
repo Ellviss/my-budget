@@ -4,4 +4,5 @@
     <string name="input_money">input money</string>
     <string name="item_edit_text">edit data</string>
     <string name="item_delete_text">delete data</string>
+    <string name="item_open_text">open</string>
 </resources>
